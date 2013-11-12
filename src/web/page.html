@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <!-- load Paper.js lib -->
+  <script type="text/javascript" src="js/dist/paper.js"></script>
+  
+  <!-- load external PaperScript and associate with canvas -->
+  <script type="text/paperscript" src="js/myscript.js"
+  canvas="mycanvas"></script>
+
+  <script type="text/javascript">
+/*    var bod = document.getElementById('bod');
+    var m = document.createElement('div');
+    var i1 = document.createElement('img');
+    i1.src = 'img/doge.jpg';
+
+    m.appendChild(i1);
+    bod.appendChild(m);
+*/
+
+
+  </script>
+  </head>
+
+  <body id="bod">
+    <img id="doge" src="img/doge.jpg" hidden></img>
+    <img id="doge2" src="img/doge.jpg" hidden></img>
+    
+    <canvas id="mycanvas" resize></canvas>
+
+  </body>
+</html>
