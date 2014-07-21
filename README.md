@@ -1,4 +1,12 @@
 shibescraper
 ============
 
-This is a collection of ridiculous doge things
+wow
+
+such doge things
+
+much programming
+
+wow
+
+such code
